@@ -1,0 +1,10 @@
+<style>
+p {
+    color: <?php echo $_GET['color']; ?>;
+    text-align: center;
+}
+body {
+  text: center;
+  color: <?php echo "testststttstst";?>;
+}
+</style>
