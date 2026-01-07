@@ -1,4 +1,5 @@
 <style>
+<?php echo "okkkkkkkkkkkkkkkkkokokokookk";?>
 p {
     color: <?php echo $_GET['color']; ?>;
     text-align: center;
