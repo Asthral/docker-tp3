@@ -1,5 +1,9 @@
 <style>
+body {
+  background-color: lightblue;
+}
 <?php echo "okkkkkkkkkkkkkkkkkokokokookk";?>
+
 p {
     color: <?php echo $_GET['color']; ?>;
     text-align: center;
